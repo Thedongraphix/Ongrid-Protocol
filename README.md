@@ -1,8 +1,3 @@
-Perfect — let’s evolve your **OnGrid Protocol README** into a **complete and professional open-source document**.
-This version adds a **technical overview**, **Web3 tech stack**, and **clear contribution steps** so that developers can easily understand and get started building with you.
-
----
-
 # 🌍 OnGrid Protocol (OGP)
 
 ## Introduction
@@ -156,7 +151,3 @@ Be part of the decentralized green energy revolution.
 **OnGrid Protocol** is building the bridge between the physical energy grid and the blockchain economy.
 
 > 💡 *Let’s power a cleaner future — together, on-chain.*
-
----
-
-Would you like me to include a **diagram (architecture or data flow)** section next — something you can embed as a visual in the README (either as Markdown or SVG)? It would make the repo more engaging and easier for contributors to grasp the system design.
