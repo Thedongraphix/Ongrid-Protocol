@@ -11,7 +11,7 @@ By integrating **DePIN devices**, **AI-driven insights**, and **Web3 infrastruct
 
 ### **Mission**
 
-To accelerate the global transition toward clean energy through decentralized technology, verifiable carbon credits, and community-driven governance.
+To accelerate the global transition toward clean energy through decentralized technology, verifiable carbon credits, and community-driven governance on base
 
 ### **Vision**
 
